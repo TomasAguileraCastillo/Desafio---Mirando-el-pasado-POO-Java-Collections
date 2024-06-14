@@ -109,13 +109,15 @@ esto que decide hacer lo siguiente:
    juegos e imprimirlos en pantalla para algún día volver a jugarlos.
 
 
+Imagenes del Proyecto
 
+![img.png](imagenes%20del%20proyecto%2Fimg.png)
 
+![img_1.png](imagenes%20del%20proyecto%2Fimg_1.png)
 
+![img_2.png](imagenes%20del%20proyecto%2Fimg_2.png)
 
-
-
-
+![img_3.png](imagenes%20del%20proyecto%2Fimg_3.png)
 
 
 
