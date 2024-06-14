@@ -1,4 +1,6 @@
 Desafío - Mirando el pasado
+--
+
 En este desafío validaremos nuestros conocimientos vistos en las sesiones anteriores.
 Lee todo el documento antes de comenzar el desarrollo individual o grupal, para asegurarte
 de tener el máximo de puntaje y enfocar bien los esfuerzos.
@@ -16,14 +18,14 @@ Requerimientos
 
 
 
-Ejercicio 1
+- Ejercicio 1
 (2,5 Puntos)
+
 Durante una fiesta por videollamada, su amiga comienza a mirar con nostalgia el pasado y le
 pregunta si se acuerda de marcas que alguna vez existieron. Usted, en su calidad de amante
 de la programación, decide sacar su flamante notebook y codear una aplicación en Java para
 hacer un listado de marcas que viven en sus memorias. Es por ello que para ayudar a su amiga
 decide hacer lo siguiente:
-
 
 1. Instanciar un ArrayList<>() del tipo String llamado “marcas” para generar un listado
    de marcas.
@@ -48,8 +50,9 @@ decide hacer lo siguiente:
 
 
 
-Ejercicio 2
+- Ejercicio 2
 (2,5 Puntos)
+
 Dado que la fiesta no terminó ahí, y luego de un montón de risas, se acuerdan de algunos ex
 compañeros/as del colegio y deciden anotarlos en un listado con la idea de contactarlos e
 invitarlos a una fiesta post-pandemia. Aburrido de usar ArrayList<>(), decide usar Set<>().
@@ -70,8 +73,9 @@ Para ello, usted hace lo siguiente:
 
 
 
-Ejercicio 3
+- Ejercicio 3
 (2,5 Puntos)
+
 Sin embargo, la fiesta no terminó ahí. Usted encontró en internet un listado con los precios
 antiguos de algunas golosinas de la infancia y decide crear un Map<>() para ir terminando la
 fiesta.
@@ -79,19 +83,21 @@ fiesta.
    listado de estas. Usted le comenta a su amiga que le gustaría probar algo llamado
    TreeMap() para listarlos por claves.
 2. Deciden agregar las siguientes golosinas:  
-● Chocman a 100 pesos
-      ● Trululú a 100 pesos
-      ● Centella a 100 pesos
-      ● Kilate a 50 pesos
-      ● Miti-miti a 30 pesos
-      ● Traga Traga a 150 pesos
-      ● Tabletón a 5 pesos
+- Chocman a 100 pesos
+- Trululú a 100 pesos
+- Centella a 100 pesos
+- Kilate a 50 pesos
+- Miti-miti a 30 pesos
+- Traga Traga a 150 pesos
+- Tabletón a 5 pesos
+
 3. Su amiga le dice que si es posible filtrar aquellas golosinas que costaban menos de
    100 pesos para mostrar en sus redes sociales el valor del dinero en el tiempo
 
 
 Ejercicio 4
 (2,5 Puntos)
+
 Por último, y no menos importante, se acordaron de aquellos juegos de infancia junto a su
 amiga. Usted, mientras conversaba, se da cuenta que podría listarlos con un Queue. Es por
 esto que decide hacer lo siguiente:
